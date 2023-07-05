@@ -1,28 +1,50 @@
-# Image-Processing-Using-MATLAB/n
-This project creates an app using MATLAB which is used to perform various operations on an image./n
-Operations are broadly classified into :-/n
+# Image-Processing-Using-MATLAB
 
-1. Basic Operations/n
-   These are some basic operations that are performed on an image. These are as follows:-/n
-   (a) Upload Image/n
-       Uploads image from your disk./n
-   (b) RGB To Gray/n
-       Converts a RGB image to grayscale./n
-   (c) Convert To Binary Image/n
-       Converts an image to binary./n
+This project creates an app using MATLAB which is used to perform various operations on an image.
+
+Operations are broadly classified into :-
 
 
-2. Advance Operations/n
-   Some advance operations are performed under this category. These are as follows:-/n
-   (a) Histogram/n
-       Output a histogram of the image./n
-   (b) Complement Image/n
-       Outputa a complement of the image./n
-   (c) Edge Detection/n
-       Detect edges in the image uploaded./n
-   (d) Rotate Clockwise/n
-       This function rotates the image clockwise./n
-   (e) Rotate Anti-Clockwise/n
-       This function rotates the image anti-clockwise/n
+1. Basic Operations
+
+   These are some basic operations that are performed on an image. These are as follows:-
+
+   (a) Upload Image
+
+       Uploads image from your disk.
+
+   (b) RGB To Gray
+
+       Converts a RGB image to grayscale.
+
+   (c) Convert To Binary Image
+
+       Converts an image to binary.
+
+
+2. Advance Operations
+
+   Some advance operations are performed under this category. These are as follows:-
+
+   (a) Histogram
+
+       Output a histogram of the image.
+
+   (b) Complement Image
+
+       Outputa a complement of the image.
+
+   (c) Edge Detection
+
+       Detect edges in the image uploaded.
+
+   (d) Rotate Clockwise
+
+       This function rotates the image clockwise.
+
+   (e) Rotate Anti-Clockwise
+
+       This function rotates the image anti-clockwise
+
 
       
