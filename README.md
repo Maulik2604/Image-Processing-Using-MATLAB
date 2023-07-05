@@ -2,6 +2,8 @@
 
 This project creates an app using MATLAB which is used to perform various operations on an image.
 
+(Input image should be in .jpg format)
+
 Operations are broadly classified into :-
 
 
